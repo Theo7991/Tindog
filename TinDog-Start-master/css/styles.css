@@ -1,0 +1,76 @@
+body {
+  font-family: 'Montserrat';
+}
+
+img {
+  margin: 0%;
+}
+
+h1 {
+  font-weight: 800;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+#title {
+  background-color: #ff4c68;
+}
+
+.fab {
+  margin-right: 8px;
+}
+
+.navbar {
+  padding: 4rem 0%;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu';
+}
+
+.nav-item {
+  padding: 10px 0px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat"
+}
+
+.download-button {
+  margin: 5% 3% 5% 0%;
+}
+
+.title-img {
+  width: 60%;
+  margin-left: 10%;
+  transform: rotate(20deg);
+}
+
+#features {
+  padding: 6% 7%;
+  margin: 0 0 0 0;
+}
+
+.three-icons{
+  color: #ef8172;
+}
+
+.three-icons:hover {
+  color: #ff4068;
+}
+
+.feature-box {
+  text-align: center;
+  padding:3% 6%;
+}
+
+.features-p {
+  color: #8f8f8f;
+}
+
+.features-h3 {
+  font-size: 1.5rem;
+  font-style: "Montserrat";
+  font-weight: bold;
+}
